@@ -1,0 +1,9 @@
+Steps to run api
+1. go to api folder and run: npm i
+2. run migration script to add user for login, due to no registration api is there.
+3. Set database URL in env at MONGO_URI=YourURL
+4. finally run: npm run start:dev to run project
+
+Steps to run UI
+1. go to ui folder and run: npm i
+2. then finally run: npm run dev to run project
