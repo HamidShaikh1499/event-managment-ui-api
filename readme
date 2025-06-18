@@ -7,3 +7,7 @@ Steps to run api
 Steps to run UI
 1. go to ui folder and run: npm i
 2. then finally run: npm run dev to run project
+
+Login cred:
+email: user@event.com
+pass: Test@123
